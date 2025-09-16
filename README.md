@@ -2,7 +2,7 @@
 
 # 𝓟𝓽𝓗𝓷𝓽𝓪𝓮𝓪𝓪𝓪
 
-*“Code is poetry, and every commit a verse.”*
+*“ >:3c ”*
 
 </div>
 
