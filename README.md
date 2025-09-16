@@ -50,3 +50,7 @@
 “𝓕𝓸𝓻𝓴 𝓽𝓱𝓮 𝓼𝓽𝓪𝓻𝓼, 𝓬𝓵𝓸𝓷𝓮 𝔂𝓸𝓾𝓻 𝓭𝓻𝓮𝓪𝓶𝓼.”
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/blob/main/Image_1757771857411.png?raw=true" alt="Sweet ending" width="700"/>
+</p>
