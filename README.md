@@ -9,7 +9,7 @@
 ---
 
 ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-𝑇ℎ𝑒 𝑟𝑒𝑎𝑠𝑜𝑛 𝑤ℎ𝑦 𝑚𝑖𝑟𝑎𝑐𝑙𝑒𝑠 𝑎𝑟𝑒 𝑐𝑎𝑙𝑙𝑒𝑑 𝑚𝑖𝑟𝑎𝑐𝑙𝑒𝑠 𝑖𝑠 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑡ℎ𝑒𝑦 𝑎𝑟𝑒 𝑠𝑜 𝑝𝑒𝑟𝑓𝑒𝑐𝑡 𝑡ℎ𝑎𝑡 𝑡ℎ𝑒𝑦 𝑎𝑟𝑒 𝑖𝑚𝑝𝑜𝑠𝑠𝑖𝑏𝑙𝑒 𝑡𝑜 ℎ𝑎𝑝𝑝𝑒𝑛
+𝑇ℎ𝑒 𝑟𝑒𝑎𝑠𝑜𝑛 𝑤ℎ𝑦 𝑚𝑖𝑟𝑎𝑐𝑙𝑒𝑠 𝑎𝑟𝑒 𝑐𝑎𝑙𝑙𝑒𝑑 𝑚𝑖𝑟𝑎𝑐𝑙𝑒𝑠 𝑖𝑠 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝑡ℎ𝑒𝑦 𝑎𝑟𝑒 𝑠𝑜 𝑝𝑒𝑟𝑓𝑒𝑐𝑡 𝑡ℎ𝑎𝑡 𝑡ℎ𝑒𝑦 𝑎𝑟𝑒 𝑖𝑚𝑝𝑜𝑠𝑠𝑖𝑏𝑙𝑒 𝑡𝑜 ℎ𝑎𝑝𝑝𝑒𝑛.
 
 ### 𝓜𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓢𝓪𝓷𝓬𝓽𝓾𝓪𝓻𝔂
 - 🌙 **Night-owl coder** – stars above, `starred` repos below  
@@ -20,7 +20,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
