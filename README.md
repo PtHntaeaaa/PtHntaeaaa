@@ -30,7 +30,7 @@
 ### 𝓡𝓮𝓬𝓮𝓷𝓽 𝓢𝓹𝓮𝓵𝓵𝓼
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PtHntaeaaa&repo=DessertPtHntaeaaa2&show_owner=true)](https://github.com/PtHntaeaaa/DessertPtHntaeaaa2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PtHntaeaaa&repo=hodgepodgeTMF&show_owner=true)](https://github.com/PtHntaeaaa/hodgepodgeTMF)
 
 </div>
 
