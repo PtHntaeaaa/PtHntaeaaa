@@ -32,7 +32,7 @@ When the moon hangs high, I speak in Python tongues and let algorithms dream.
 ### 𝓡𝓮𝓬𝓮𝓷𝓽 𝓢𝓹𝓮𝓵𝓵𝓼
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PtHntaeaaa&repo=YOUR_REPO_NAME&show_owner=true)](https://github.com/PtHntaeaaa/YOUR_REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PtHntaeaaa&repo=DessertPtHntaeaaa2&show_owner=true)](https://github.com/PtHntaeaaa/DessertPtHntaeaaa2)
 
 </div>
 
