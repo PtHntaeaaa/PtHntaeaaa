@@ -9,9 +9,7 @@
 ---
 
 ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-I’m a digital wanderer, weaving binaries into beauty.  
-My keyboard is my quill, the terminal my parchment.  
-When the moon hangs high, I speak in Python tongues and let algorithms dream.
+𝒯𝒽ℯ 𝓇ℯ𝒶𝓈ℴ𝓃 𝓌𝒽𝓎 𝓂𝒾𝓇𝒶𝒸𝓁ℯ𝓈 𝒶𝓇ℯ 𝒸𝒶𝓁𝓁ℯ𝒹 𝓂𝒾𝓇𝒶𝒸𝓁ℯ𝓈 𝒾𝓈 𝒷ℯ𝒸𝒶𝓊𝓈ℯ 𝓉𝒽ℯ𝓎 𝒶𝓇ℯ 𝓈ℴ 𝓅ℯ𝓇𝒻ℯ𝒸𝓉 𝓉𝒽𝒶𝓉 𝓉𝒽ℯ𝓎 𝒶𝓇ℯ 𝒾𝓂𝓅ℴ𝓈𝓈𝒾𝒷𝓁ℯ 𝓉ℴ 𝒽𝒶𝓅𝓅ℯ𝓃
 
 ### 𝓜𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓢𝓪𝓷𝓬𝓽𝓾𝓪𝓻𝔂
 - 🌙 **Night-owl coder** – stars above, `starred` repos below  
