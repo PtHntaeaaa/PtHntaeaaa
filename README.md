@@ -27,10 +27,18 @@ When the moon hangs high, I speak in Python tongues and let algorithms dream.
 
 </div>
 
+### 𝓡𝓮𝓬𝓮𝓷𝓽 𝓢𝓹𝓮𝓵𝓵𝓼
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PtHntaeaaa&repo=YOUR_REPO_NAME&show_owner=true)](https://github.com/PtHntaeaaa/YOUR_REPO_NAME)
+
+</div>
+
 ### 𝓕𝓲𝓷𝓭 𝓶𝓮 𝓾𝓷𝓭𝓮𝓻 𝓽𝓱𝓮 𝓝𝓮𝓸𝓷 𝓜𝓸𝓸𝓷
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:PtHntaeaaa@proton.me)  
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:arcaea_27day@outlook.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:command.blockngr@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PtHntaeaaa)
 
 </div>
@@ -42,4 +50,3 @@ When the moon hangs high, I speak in Python tongues and let algorithms dream.
 “𝓕𝓸𝓻𝓴 𝓽𝓱𝓮 𝓼𝓽𝓪𝓻𝓼, 𝓬𝓵𝓸𝓷𝓮 𝔂𝓸𝓾𝓻 𝓭𝓻𝓮𝓪𝓶𝓼.”
 
 </div>
-
