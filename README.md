@@ -52,7 +52,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/raw/main/demo.gif" alt="Sweet ending" width="700"/>
+  <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/blob/main/demo1.gif" alt="Sweet ending" width="700"/>
 </p>
 
 <div align="center">
