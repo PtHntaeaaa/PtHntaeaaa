@@ -72,9 +72,10 @@
 
 <!-- 赛博霓虹组 -->
 <img src="https://img.shields.io/badge/-CTF-6A0DAD?style=flat-square&logo=hackthebox&logoColor=00FFFF" alt="CTF"/>
-<img src="https://img.shields.io/badge/-0-day-00FFFF?style=flat-square&logo=bugcrowd&logoColor=000" alt="0day"/>
+<img src="https://img.shields.io/badge/-0day-00FFFF?style=flat-square&logo=zeroday&logoColor=000" alt="0day"/>
 <img src="https://img.shields.io/badge/-Reverse-FF00FF?style=flat-square&logo=reverseengineering&logoColor=fff" alt="Reverse"/>
 <img src="https://img.shields.io/badge/-Shellcode-00FF00?style=flat-square&logo=gnubash&logoColor=000" alt="Shellcode"/>
 <img src="https://img.shields.io/badge/-Binary-FF4500?style=flat-square&logo=binary&logoColor=fff" alt="Binary"/>
+
 
 </div>
