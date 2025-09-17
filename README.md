@@ -52,8 +52,57 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/raw/main/demo.gif" alt="Sweet ending" width="700"/>
+  <div align="center" style="
+      display:inline-block;
+      margin:2rem 0;
+      padding:1.2rem 1.2rem .8rem 1.2rem;
+      background:rgba(255,255,255,0.05);
+      backdrop-filter:blur(10px);
+      border-radius:16px;
+      box-shadow:0 8px 32px rgba(0,0,0,.37);
+      border:1px solid rgba(255,255,255,0.08);">
+
+    <div style="
+        position:relative;
+        width:700px;
+        max-width:90vw;
+        border-radius:12px;
+        overflow:hidden;
+        box-shadow:
+          0 0 4px #fff,
+          0 0 11px #fff,
+          0 0 19px #0ff,
+          0 0 40px #0ff,
+          0 0 80px #0ff;">
+
+      <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/raw/main/demo.gif"
+           alt="Sweet ending"
+           style="width:100%; display:block;">
+
+      <div style="
+          position:absolute;
+          left:0; right:0; bottom:0;
+          padding:.6rem 1rem;
+          font-size:1rem;
+          color:#fff;
+          text-align:center;
+          letter-spacing:1px;
+          background:rgba(0,0,0,.45);
+          backdrop-filter:blur(4px);
+          animation:fadeIn 2s ease-out forwards;">
+        “Fork the stars, clone your dreams.”
+      </div>
+    </div>
+  </div>
 </p>
+
+<style>
+@keyframes fadeIn{
+  0%   {opacity:0; transform:translateY(10px);}
+  100% {opacity:1; transform:translateY(0);}
+}
+</style>
+
 
 <div align="center">
 
