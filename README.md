@@ -55,10 +55,8 @@
   <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/blob/main/Image_1757771857411.png?raw=true" alt="Sweet ending" width="700"/>
 </p>
 
-<!-- 追加：黑客徽章 -->
 <div align="center">
 
-<!-- 暗黑硬核组 -->
 <img src="https://img.shields.io/badge/-HackTheBox-111727?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
 <img src="https://img.shields.io/badge/-TryHackMe-0D0D0D?style=flat-square&logo=tryhackme&logoColor=FF0800" alt="TryHackMe"/>
 <img src="https://img.shields.io/badge/-Kali%20Linux-1E1E1E?style=flat-square&logo=kalilinux&logoColor=27AE60" alt="Kali"/>
@@ -70,7 +68,6 @@
 
 <div align="center">
 
-<!-- 赛博霓虹组 -->
 <img src="https://img.shields.io/badge/-CTF-6A0DAD?style=flat-square&logo=hackthebox&logoColor=00FFFF" alt="CTF"/>
 <img src="https://img.shields.io/badge/-0day-00FFFF?style=flat-square&logo=zeroday&logoColor=000" alt="0day"/>
 <img src="https://img.shields.io/badge/-Reverse-FF00FF?style=flat-square&logo=reverseengineering&logoColor=fff" alt="Reverse"/>
