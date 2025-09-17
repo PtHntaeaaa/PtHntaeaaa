@@ -96,14 +96,6 @@
   </div>
 </p>
 
-<style>
-@keyframes fadeIn{
-  0%   {opacity:0; transform:translateY(10px);}
-  100% {opacity:1; transform:translateY(0);}
-}
-</style>
-
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/-HackTheBox-111727?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
