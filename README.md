@@ -54,3 +54,27 @@
 <p align="center">
   <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/blob/main/Image_1757771857411.png?raw=true" alt="Sweet ending" width="700"/>
 </p>
+
+<!-- 追加：黑客徽章 -->
+<div align="center">
+
+<!-- 暗黑硬核组 -->
+<img src="https://img.shields.io/badge/-HackTheBox-111727?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
+<img src="https://img.shields.io/badge/-TryHackMe-0D0D0D?style=flat-square&logo=tryhackme&logoColor=FF0800" alt="TryHackMe"/>
+<img src="https://img.shields.io/badge/-Kali%20Linux-1E1E1E?style=flat-square&logo=kalilinux&logoColor=27AE60" alt="Kali"/>
+<img src="https://img.shields.io/badge/-Burp%20Suite-FFA500?style=flat-square&logo=burpsuite&logoColor=000" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/-Nmap-00B818?style=flat-square&logo=nmap&logoColor=fff" alt="nmap"/>
+<img src="https://img.shields.io/badge/-Metasploit-FFA500?style=flat-square&logo=metasploit&logoColor=000" alt="Metasploit"/>
+
+</div>
+
+<div align="center">
+
+<!-- 赛博霓虹组 -->
+<img src="https://img.shields.io/badge/-CTF-6A0DAD?style=flat-square&logo=hackthebox&logoColor=00FFFF" alt="CTF"/>
+<img src="https://img.shields.io/badge/-0-day-00FFFF?style=flat-square&logo=bugcrowd&logoColor=000" alt="0day"/>
+<img src="https://img.shields.io/badge/-Reverse-FF00FF?style=flat-square&logo=reverseengineering&logoColor=fff" alt="Reverse"/>
+<img src="https://img.shields.io/badge/-Shellcode-00FF00?style=flat-square&logo=gnubash&logoColor=000" alt="Shellcode"/>
+<img src="https://img.shields.io/badge/-Binary-FF4500?style=flat-square&logo=binary&logoColor=fff" alt="Binary"/>
+
+</div>
