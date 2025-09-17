@@ -52,7 +52,28 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/raw/main/demo.gif" alt="Sweet ending" width="700"/>
+  <style>
+    @keyframes pulse-neon{
+      0%  {box-shadow:0 0 8px #0ff, 0 0 16px #0ff, 0 0 24px #f0f;}
+      50% {box-shadow:0 0 16px #f0f, 0 0 32px #f0f, 0 0 48px #0ff;}
+      100%{box-shadow:0 0 8px #0ff, 0 0 16px #0ff, 0 0 24px #f0f;}
+    }
+    .neon-wrapper{
+      display:inline-block;
+      border-radius:12px;
+      padding:6px;
+      animation:pulse-neon 3s infinite ease-in-out;
+      transition:transform .3s;
+    }
+    .neon-wrapper:hover{ animation-play-state:paused; transform:scale(1.02); }
+    .neon-wrapper img{ border-radius:8px; vertical-align:middle; }
+  </style>
+
+  <a href="https://github.com/PtHntaeaaa/PtHntaeaaa/raw/main/demo.gif" target="_blank">
+    <span class="neon-wrapper">
+      <img src="https://github.com/PtHntaeaaa/PtHntaeaaa/raw/main/demo.gif" alt="Sweet ending" width="700"/>
+    </span>
+  </a>
 </p>
 
 <div align="center">
